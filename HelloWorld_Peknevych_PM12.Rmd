@@ -1,0 +1,18 @@
+---
+title: "HelloWorld_Peknevych_PM12"
+author: "Peknevych Illia"
+date: "2022-10-05"
+output: html_document
+---
+
+# Практичне завдання.
+
+### Дисципліна: Прикладна аналітика при розробці.
+
+### Студент: Пекневич Ілля Ігорович, УП-12.
+
+#### 1. Створити базовий "Hello world" на R.
+
+```{r}
+print("Hello World!")
+```
